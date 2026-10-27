@@ -56,7 +56,7 @@ Use every eligible snapshot from the past seven days:
 Use approximately one snapshot per hour from the past 30 days:
 
 ```shell
-./timelapse 30 "/path/to/snapshots" "Snapshot From " "%Y-%m-%d %H-%M-% S" 1hcd 
+./timelapse 30 "/path/to/snapshots" "Snapshot From " "%Y-%m-%d %H-%M-% S" 1h
 ```
 
 
